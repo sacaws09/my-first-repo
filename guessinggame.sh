@@ -1,7 +1,6 @@
 echo "Welcome to the guessing game"
 echo "Guess the no. of files present in the current directory:"
 read response
-cd
 
 gettotalnooffiles () {
 
